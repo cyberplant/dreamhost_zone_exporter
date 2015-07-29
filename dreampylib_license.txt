@@ -1,0 +1,3 @@
+Dreampylib is (c) 2009 by Laurens Simonis.
+Use it at your own risk, do with it whatever you like, 
+but I am not responsible for whatever you do with it.
